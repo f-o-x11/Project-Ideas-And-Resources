@@ -181,6 +181,7 @@ You can also add your own examples to the projects after you have completed them
 - [Git Ignore Generator](https://www.toptal.com/developers/gitignore)
 - [CORS-Tester](https://cors-error.dev/cors-tester/)
 - [TempMail10min](https://temp-mail10min.online/) - Free disposable temporary email generator for testing signup and authentication flows with 5-30 minute inboxes.
+- [deed.page](https://deed.page) - Free hosting for a single HTML file or a static project folder: upload it with one command and get a public link to share a finished project, no account needed.
 
 ### Roadmaps 🗺️
 
